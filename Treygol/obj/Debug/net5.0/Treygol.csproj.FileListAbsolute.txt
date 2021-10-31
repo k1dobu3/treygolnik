@@ -1,0 +1,16 @@
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\bin\Debug\net5.0\Treygol.exe
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\bin\Debug\net5.0\Treygol.deps.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\bin\Debug\net5.0\Treygol.runtimeconfig.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\bin\Debug\net5.0\Treygol.runtimeconfig.dev.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\bin\Debug\net5.0\Treygol.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\bin\Debug\net5.0\ref\Treygol.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\bin\Debug\net5.0\Treygol.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.csproj.AssemblyReference.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.AssemblyInfoInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.AssemblyInfo.cs
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\ref\Treygol.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\Treygol\Treygol\Treygol\obj\Debug\net5.0\Treygol.genruntimeconfig.cache
